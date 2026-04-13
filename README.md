@@ -12,9 +12,13 @@
 
 ---
 
-### 🏆 Achievements
+
+
+
+### 🚀 Current Level: Learning
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KimiaHemmat&theme=tokyonight&margin-w=15&margin-h=15&column=5" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Git%20%26%20Python-blueviolet?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-0078D4?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
@@ -44,15 +48,11 @@
 ---
 
 ### 📊 Vital Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KimiaHemmat&show_icons=true&theme=visual_studio_code&count_private=true&hide_border=true" alt="Stats" />
-</p>
+
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KimiaHemmat&theme=visual_studio_code&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimiaHemmat&theme=radical" alt="Streak" />
 </p>
-
----
 
 ### 📬 Establish Connection
 <p align="center">
