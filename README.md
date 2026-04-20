@@ -10,7 +10,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6OWE5b2h3MWIyNmg1Zms2YTNyNXViYXhrcHhxd3l4ZG0zcTZ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v6aOjy0Qo1fIA/giphy.gif" width="320">
 </p>
 
-<p align="center">🌌 ───── ✦ ───── 🌌</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header"/>
 
 <h2 align="center">🐍 Contribution Journey</h2>
 
@@ -18,7 +18,12 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center">🪐 ───────────── 🪐</p>
+<!-- ✨ FEATURED SPACE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3&width=40%" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3&width=40%" />
+</p>
 
 <h2 align="center">🚀 Current Level: Learning</h2>
 
@@ -28,7 +33,7 @@
   <img src="https://img.shields.io/badge/Environment-PowerShell-4D4D4D?style=for-the-badge&logo=powershell" />
 </p>
 
-<p align="center">✨ ─── ☄️ ─── ✨</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
 
 <h2 align="center">💻 System Stack</h2>
 
@@ -53,7 +58,7 @@
   </tr>
 </table>
 
-<p align="center">🌠 ───────────── 🌠</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3"/>
 
 <h2 align="center">📊 Vital Statistics</h2>
 
@@ -65,7 +70,7 @@
   <img src="https://komarev.com/ghpvc/?username=KimiaHemmat&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">🌙 ─────── ✧ ─────── 🌙</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=3"/>
 
 <h2 align="center">📬 Establish Connection</h2>
 
@@ -78,7 +83,7 @@
   </a>
 </p>
 
-<p align="center">🌌 ───── ✦ ───── 🌌</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
