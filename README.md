@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3&width=40%" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="40"/>
+  <img src="docs/img/planet.svg" width="40"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3&width=40%" />
 </p>
 
