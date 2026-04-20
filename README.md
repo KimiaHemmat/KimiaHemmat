@@ -10,7 +10,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6OWE5b2h3MWIyNmg1Zms2YTNyNXViYXhrcHhxd3l4ZG0zcTZ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v6aOjy0Qo1fIA/giphy.gif" width="320">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
 <h2 align="center">🐍 Contribution Journey</h2>
 
@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- ✨ FEATURED SPACE DIVIDER -->
+<!-- 🌌 FEATURE DIVIDER WITH PLANET -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3&width=40%" />
   <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="40"/>
