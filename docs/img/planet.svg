@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="background: #050505;">
+  <defs>
+    <radialGradient id="planetBody" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#00ffff" />
+      <stop offset="60%" stop-color="#008b8b" />
+      <stop offset="100%" stop-color="#002b2b" />
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <g fill="white" opacity="0.6">
+    <circle cx="100" cy="100" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" /></circle>
+    <circle cx="400" cy="150" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite" /></circle>
+    <circle cx="120" cy="400" r="1"><animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" /></circle>
+    <circle cx="450" cy="450" r="1"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g transform="translate(256, 256)">
+
+    <g>
+      <circle r="35" fill="#a9a9a9" stroke="#ffffff" stroke-width="1" />
+      <animateMotion path="M-280,50 A280,100 -15 0 1 280,-50" dur="15s" repeatCount="indefinite" />
+    </g>
+
+    <ellipse rx="220" ry="70" fill="none" stroke="#00ffff" stroke-width="2" stroke-dasharray="2, 5" opacity="0.3" transform="rotate(-15)" />
+
+    <circle r="140" fill="url(#planetBody)" filter="url(#glow)">
+      <animate attributeName="r" values="140;142;140" dur="4s" repeatCount="indefinite" />
+    </circle>
+
+    <ellipse rx="220" ry="70" fill="none" stroke="#00ffff" stroke-width="4" filter="url(#glow)" transform="rotate(-15)">
+      <animate attributeName="stroke-dashoffset" from="0" to="100" dur="10s" repeatCount="indefinite" />
+    </ellipse>
+
+    <g>
+      <circle r="18" fill="#555" stroke="#00ffff" stroke-width="1" filter="url(#glow)" />
+      <animateMotion path="M180,0 A180,60 -15 1 1 -180,0 A180,60 -15 1 1 180,0" dur="6s" repeatCount="indefinite" />
+    </g>
+
+  </g>
+</svg>
