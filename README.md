@@ -54,7 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimiaHemmat&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KimiaHemmat&label=Visitors%20from%20the%20Void&color=00E5FF&style=flat-square"/>
 </p>
