@@ -1,6 +1,6 @@
 <!-- COSMIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00E5FF&height=300&section=header&text=KIMIA%20HEMMAT&fontSize=80&fontAlignY=35&desc=✦Automation  %20Engineer%20%7C%20Python%20Learner%20✦&descAlignY=60&descSize=18&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00E5FF&height=300&section=header&text=KIMIA%20HEMMAT&fontSize=80&fontAlignY=35&desc=✦%20Automation%20Engineer%20%7C%20Python%20Learner%20✦&descAlignY=60&descSize=18&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- COSMIC TYPING -->
