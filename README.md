@@ -1,11 +1,11 @@
 <!-- COSMIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00E5FF&height=300&section=header&text=KIMIA%20HEMMAT&fontSize=80&fontAlignY=35&desc=✦%20Backend%20Engineer%20%7C%20System%20Builder%20✦&descAlignY=60&descSize=18&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00E5FF&height=300&section=header&text=KIMIA%20HEMMAT&fontSize=80&fontAlignY=35&desc=✦Automation  %20Engineer%20%7C%20Python%20Learner%20✦&descAlignY=60&descSize=18&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- COSMIC TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=750&lines=✦+Initializing+Cosmic+Profile...;✦+Loading+Neural+Modules...;✦+Backend+Systems+Online;✦+Entering+Deep+Focus+Mode;✦+Welcome+to+My+Universe" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=750&lines=✦+Initializing+Cosmic+Profile...;✦+Loading+Neural+Modules...;✦+Entering+Deep+Focus+Mode;✦+Welcome+to+My+Universe" />
 </p>
 
 
@@ -21,7 +21,7 @@
 <h3 align="center">🌌 IDENTITY CORE</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Backend%20Engineer-7DF9FF?style=for-the-badge&logo=databricks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROLE-Automation%20Engineer-7DF9FF?style=for-the-badge&logo=databricks&logoColor=black"/>
   <img src="https://img.shields.io/badge/FOCUS-Systems%20%26%20Automation-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MODE-Cosmic%20Grind-FF00FF?style=for-the-badge"/>
 </p>
